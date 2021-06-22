@@ -1,4 +1,4 @@
-#Hyperblog
+# Hyperblog
 Un blog increible para el curso de platzi de git y github.
 >El curso de git y github de platzi era lo que me faltaba para aclarar dudas sobre el funcionamiento de la herramienta y potenciar su uso.
 > - viñeta
